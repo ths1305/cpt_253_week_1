@@ -15,14 +15,14 @@ By the end of this assignment, you should be able to:
 1. **Read the following materials**:
 
    - [State of JS](https://stateofjs.com/en-US) 
-    This is a surey conducted annually which focuses on the State of JavaScript.  While many programming languages are rapidly changing and introducing new libraries/frameworks (code others have written) all the time, JS is relatively unique in that this language is widely used for full-stack web application development and has several (especially) frameworks which are super popular.  While the entire survey is worth a look the "Libraries -> Front-End Frameworks" is where React.JS lives and the reason why we will be focusing on this particular framework in this class! 
+    This is an annual survey which focuses on the State of JavaScript.  While many programming languages are rapidly changing and introducing new libraries/frameworks (code others have written) all the time, JS is relatively unique in that this language is widely used for full-stack web application development and has several (especially) frameworks which are super popular.  While the entire survey is worth a look the "Libraries -> Front-End Frameworks" is where React.JS lives and the reason why we will be focusing on this particular framework in this class! 
 
    - [Quick Start](https://react.dev/learn)
     This is the official "Get Started" page for React.   Read through the "Quick Start" and "thinking in React" menu items to get an overview of what React is and how it is meant to work.
    
 2. **Complete the following tasks**:
 
-    - On your Linux Mint machine Download and install node and git
+    - On your Linux Mint machine Download and install both node and git
 
     - Clone this repository to your Linux Mint development machine and start the project
     
